@@ -10,7 +10,7 @@ pip install numpy
 
 1.  Clone this repository:
     ```bash
-    git clone https://github.com/pradyumpandey21/neural_network/.git
+    git clone https://github.com/pradyumpandey21/neural_network.git
     cd neural_network
     ```
 2.  (Assuming your main training script is named `main.py`): Execute the training script:
